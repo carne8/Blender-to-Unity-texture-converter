@@ -1,1 +1,1 @@
-# texture-merger
+# texture-converter
